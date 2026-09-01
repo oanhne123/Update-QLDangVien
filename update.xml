@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
     <!-- Phiên bản mới nhất của phần mềm -->
-    <version>1.298.1</version> 
+    <version>1.0.1</version> 
     
     <!-- Link tải file zip trực tiếp từ GitHub Releases (Sẽ có ở Bước 2) -->
     <url>https://github.com/oanhne123/Update-QLDangVien/releases/download/v1.789.5/QuanLyDangVien.zip</url> 
