@@ -4,7 +4,7 @@
     <version>1.298.1</version> 
     
     <!-- Link tải file zip trực tiếp từ GitHub Releases (Sẽ có ở Bước 2) -->
-    <url>https://github.com/TEN-TAI-KHOAN/TEN-REPO/releases/latest/download/QuanLyDangVien.zip</url> 
+    <url>https://github.com/oanhne123/Update-QLDangVien/releases/download/v1.789.5/QuanLyDangVien.zip</url> 
     
     <!-- Danh sách những thay đổi trong bản này (sẽ hiển thị trên màn hình người dùng) -->
     <changelog>https://raw.githubusercontent.com/oanhne123/Update-QLDangVien/main/changelog.md</changelog> 
