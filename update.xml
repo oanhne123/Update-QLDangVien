@@ -7,7 +7,7 @@
     <url>https://github.com/TEN-TAI-KHOAN/TEN-REPO/releases/latest/download/QuanLyDangVien.zip</url> 
     
     <!-- Danh sách những thay đổi trong bản này (sẽ hiển thị trên màn hình người dùng) -->
-    <changelog>https://raw.githubusercontent.com/TEN-TAI-KHOAN/TEN-REPO/main/changelog.md</changelog> 
+    <changelog>https://raw.githubusercontent.com/oanhne123/Update-QLDangVien/main/changelog.md</changelog> 
     
     <mandatory>false</mandatory> <!-- Chỉnh thành true nếu bắt buộc người dùng phải tải -->
 </item>
